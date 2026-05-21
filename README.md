@@ -36,15 +36,9 @@ I enjoy working with:
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://github.com/QuintenBauwens">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/quinten-bauwens">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
+<a href="https://github.com/QuintenBauwens"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://gitlab.com/quintenBauwens"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+<a href="https://www.linkedin.com/in/quinten-bauwens-3766b0225/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
