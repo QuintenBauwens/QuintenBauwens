@@ -19,7 +19,7 @@ I enjoy working with:
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,bash,cs,mysql,docker,kubernetes,aws,gcp,terraform,ansible,git,linux,nginx,githubactions,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,cs,mysql,docker,kubernetes,aws,gcp,terraform,ansible,git,linux,nginx,githubactions,vscode,idea,jenkins"/>
 
 </p>
 
