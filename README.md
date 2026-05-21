@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there👋
 
-<!--
-**QuintenBauwens/QuintenBauwens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Belgian Electronics-ICT student with a strong interest in DevOps, cloud infrastructure, automation, and self-hosted environments.
 
-Here are some ideas to get you started:
+Currently studying at Odisee Ghent while working at Volvo Cars Ghent, where I’ve contributed to software development, automation support, and industrial training environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with:
+
+- Cloud infrastructure
+- Linux systems
+- Containerization
+- CI/CD pipelines
+- Monitoring & networking
+- Infrastructure automation
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,cs,mysql,docker,kubernetes,aws,gcp,terraform,ansible,git,linux,nginx,githubactions,vscode,idea" />
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- Homelab & Self-hosted Infrastructure (Proxmox, Docker, VPN, monitoring)
+- CI/CD Pipeline (GitLab, Docker, Django)
+- AWS Scalable Architecture (VPC, EC2, CloudFront, S3)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/QuintenBauwens">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/quinten-bauwens">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
